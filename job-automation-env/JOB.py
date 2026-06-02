@@ -6,8 +6,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # Define your login credentials
-LINKEDIN_EMAIL = "Viplavreddychennupalli@gmail.com"
-LINKEDIN_PASSWORD = "Hanuma@11"
+LINKEDIN_EMAIL = "enter you linkedin ID"
+LINKEDIN_PASSWORD = "Pass"
 
 # Job preferences
 JOB_TITLE = "Data Engineer"
