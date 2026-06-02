@@ -8,8 +8,8 @@ import time
 import sys
 
 # Replace these with your LinkedIn login credentials
-LINKEDIN_EMAIL = "Viplavreddychennupalli@gmail.com"
-LINKEDIN_PASSWORD = "Hanuma@1102"
+LINKEDIN_EMAIL = "Enter your email"
+LINKEDIN_PASSWORD = "Pass"
 
 
 def init_driver():
